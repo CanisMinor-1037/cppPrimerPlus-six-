@@ -1,5 +1,13 @@
-// myfirst.cpp--displays a message
-
+/**
+ * @file myfirst.cpp
+ * @author seed
+ * @brief displays a message
+ * @version 0.1
+ * @date 2022-07-02
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
 #include <iostream>                           // a PREPROCESSOR directive
 int main()                                    // function header
 {                                             // start of function body
